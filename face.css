@@ -27,7 +27,7 @@
     position: absolute;
     top: 50px;
     left: 50px;
-    animation: ass 1s 5s linear 1;
+    animation: bro 1s 5s linear 1;
 
 }
 
@@ -109,7 +109,7 @@
     }
 }
 
-@keyframes ass {
+@keyframes bro {
     0% {
         top: 50px;
     }
